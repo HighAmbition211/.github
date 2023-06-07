@@ -5,7 +5,7 @@
 
 ---
 
-![Casino](https://github.com/NFTSpin/.github/blob/main/casino.png)
+![Casino](https://github.com/NFTSpin/.github/blob/main/profile/casino.png)
 
 ## World's first 100% Decentralized PVP casino
 
