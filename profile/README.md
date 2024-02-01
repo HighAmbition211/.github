@@ -2,7 +2,7 @@
 
 ---
 
-![Casino](https://github.com/NFTSpin/.github/blob/main/profile/casino.png)
+![Casino](https://github.com/NFTSpin/.github/blob/main/profile/foundation.png)
 
 ## DePIN Project
 
